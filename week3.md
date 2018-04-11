@@ -5,28 +5,31 @@
 ```
 
 ```
-a href=
-"http://www.youtube.com/watch?feature=player_embedded
+iframe width=
+"560"
+ height=
+"315"
+ src=
+"//https://www.youtube.com/watch?v=_1zaAQlahpQ
 &
-v=YOUTUBE_VIDEO_ID_HERE
-"
- target=
-"_blank"
+autoplay=1
+&
+loop=1
+&
+playlist=SwrKzkRUlaw"
+ frameborder=
+"0"
+ allowfullscreen
 >
 <
-img src=
-"../images/youtube.png"
- width=
-"250"
-
-alt=
-"IMAGE ALT TEXT HERE"
- /
->
-<
-/a
+/iframe
 >
 ```
+
+  
+
+
+
 
 ![](/assets/1.jpg)
 
