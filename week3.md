@@ -1,44 +1,44 @@
 # **鋼球運動系統**
 
-&lt;
 
-`iframe width=`
 
-`"560"`
+iframe width=
 
-` height=`
+"560"
 
-`"315"`
+height=
 
-` src=`
+"315"
 
-`"//www.youtube.com/embed/SwrKzkRUlaw?hd=1`
+src=
 
-`&`
+"//www.youtube.com/embed/SwrKzkRUlaw?hd=1
 
-`autoplay=1`
+&
 
-`&`
+autoplay=1
 
-`loop=1`
+&
 
-`&`
+loop=1
 
-`playlist=SwrKzkRUlaw"`
+&
 
-` frameborder=`
+playlist=SwrKzkRUlaw"
 
-`"0"`
+frameborder=
 
-` allowfullscreen`
+"0"
 
-`>`
-
-`<`
-
-`/iframe`
+allowfullscreen
 
 &gt;
+
+&lt;
+
+/iframe
+
+
 
 ![](/assets/1.jpg)
 
