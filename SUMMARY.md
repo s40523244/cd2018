@@ -9,4 +9,5 @@
 * [week06](week06.md)
 * [week07](week7.md)
 * [期中報告](qi-zhong-bao-gao.md)
+  * [鋼球運動系統 \(附影片\)](qi-zhong-bao-gao/gang-qiu-yun-dong-xi-tong-fu-ying-724729.md)
 
