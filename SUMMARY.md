@@ -9,5 +9,6 @@
 * [week06](week06.md)
 * [week07](week7.md)
 * [期中報告](qi-zhong-bao-gao.md)
-  * [鋼球運動系統 \(附影片\)](qi-zhong-bao-gao/gang-qiu-yun-dong-xi-tong-fu-ying-724729.md)
+  * [Q01  鋼球運動系統 \(附影片\)](qi-zhong-bao-gao/gang-qiu-yun-dong-xi-tong-fu-ying-724729.md)
+  * [Q02  手動運算是否與程式驗算或 V-rep 模擬相符?](qi-zhong-bao-gao/q02shou-dong-yun-suan-shi-fou-yu-cheng-shi-yan-suan-huo-v-rep-mo-ni-xiang-7b263f.md)
 
