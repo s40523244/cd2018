@@ -9,17 +9,9 @@
 
 ###  {#各組在-w11-上課前-必須拍攝利用此一雙階段提球機構-將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片}
 
-## Pyslvs 機構設計模擬檔 {#pyslvs-機構設計模擬檔}
-
-
+## [https://github.com/s40523239/cd\_2018-team11/blob/master/T7.slvs](https://github.com/s40523239/cd_2018-team11/blob/master/T7.slvs)[Pyslvs 機構設計模擬檔](https://github.com/s40523239/cd_2018-team11/blob/master/T7.pyslvs) {#pyslvs-機構設計模擬檔}
 
 ![](/assets/28585.jpg)
-
-
-
-
-
-
 
 # sovlvespace機構設計檔
 
