@@ -16,5 +16,6 @@
   * [Q05  cd2018 倉儲展示](qi-zhong-bao-gao/q05-cd2018-cang-chu-zhan-shi.md)
   * [自評成績](qi-zhong-bao-gao/zi-ping-cheng-ji.md)
 * [week10](week10.md)
+* [week12](week12.md)
 * [week14](week13.md)
 
