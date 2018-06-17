@@ -23,6 +23,10 @@
 
 ![](/assets/7477.jpg)
 
+# [Onshape繪製機構](https://cad.onshape.com/documents/9a1d5711b2f01cdb0f5d8576/w/558c8a9517392c5e1fe32100/e/80b3049ba4aefa8b350f76b1)
+
+![](/assets/W10_Onshape.jpg)
+
 # [模擬ttt檔](https://github.com/s40523238/cd2018/blob/master/模擬W10.ttt)
 
 # ![](/assets/1529235991016.jpg)
