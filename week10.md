@@ -23,7 +23,9 @@
 
 ![](/assets/7477.jpg)
 
-# 
+# [模擬ttt檔](https://github.com/s40523238/cd2018/blob/master/%E6%A8%A1%E6%93%ACW10.ttt)
+
+# ![](/assets/1529235991016.jpg)
 
 # 
 
