@@ -1,6 +1,6 @@
 # W10
 
-## 兩段式六連趕提求機構設計與模擬
+## 兩段式六連桿提求機構設計與模擬
 
 * ### 下載Pvslvs [http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64\_cdw10.7z](http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z)
 * ### 請各組在 W11 上課之前完成 Pyslvs 套件中之 ball lifter 機構的 Solvespace 零件組立與 V-rep 提球模擬 {#請各組在-w11-上課之前完成-pyslvs-套件中之-ball-lifter-機構的-solvespace-零件組立與-v-rep-提球模擬}
@@ -23,7 +23,7 @@
 
 ![](/assets/7477.jpg)
 
-# [模擬ttt檔](https://github.com/s40523238/cd2018/blob/master/%E6%A8%A1%E6%93%ACW10.ttt)
+# [模擬ttt檔](https://github.com/s40523238/cd2018/blob/master/模擬W10.ttt)
 
 # ![](/assets/1529235991016.jpg)
 
