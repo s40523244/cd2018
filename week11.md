@@ -6,7 +6,9 @@
 
 ### Youtube影片：
 
-### [40523238](https://www.youtube.com/watch?v=zuALpYC78xQ)  
+### [40523238](https://www.youtube.com/watch?v=zuALpYC78xQ)
+
+### [40523244](https://www.youtube.com/watch?v=Bxd3dr4ZBbM&feature=youtu.be)
 
 ### Pyslvs 機構設計模擬檔：
 
@@ -28,6 +30,10 @@
 
 ### ![](/assets/W11_slvs.jpg)
 
+### [40523244\_三段式連桿機構\_sovlvespace機構設計檔](https://github.com/s40523244/cd2018/blob/gh-pages/40523244.slvs)
+
+### ![](/assets/1529414214163.jpg)
+
 ### Onshape繪製機構：
 
 ### [40523238\_Onshape繪製機構](https://cad.onshape.com/documents/2e8c3210af4a65b289e3e02f/w/00e13fb0aa071a52ee5ffa70/e/f83ddd346bd06e3c31e3e9ad)
@@ -37,6 +43,10 @@
 ### [ 40523239\_Onshape繪製機構](https://cad.onshape.com/documents/f0241464a59149da22babe31/w/89254408a359073048546e37/e/216443df54f585c30ccf3dd2)
 
 ### ![](/assets/W11_Onshape.jpg)
+
+### [40523244\_Onshape繪製機構](https://cad.onshape.com/documents/4f685dbf31fdf1879a0bd06c/w/85791904390bd027339cac09/e/02a88b82e285b1d10b450d68)
+
+### ![](/assets/1529415003888.jpg)
 
 
 
