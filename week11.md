@@ -12,6 +12,10 @@
 
 ### [40523239](https://www.youtube.com/watch?v=AF799LUy1jc&feature=youtu.be)
 
+### 機構模擬ttt檔:
+
+### [40523239.ttt](https://github.com/s40523239/cd_2018-team11/blob/master/40523239.ttt)
+
 ### Pyslvs 機構設計模擬檔：
 
 ### [40523238\_三段式連桿機構\_Pyslvs 機構設計模擬檔](https://github.com/s40523238/cd2018/blob/master/40523238.pyslvs)
