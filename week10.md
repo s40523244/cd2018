@@ -25,7 +25,7 @@
 
 ![](/assets/W10_Onshape.jpg)
 
-# [**兩段式六連桿模擬影片**](https://legacy.gitbook.com/book/s40523244/bg11-gitbook/edit#)
+# [**兩段式六連桿模擬影片**](https://www.youtube.com/watch?v=NlTLLujV0q8)
 
 # [模擬ttt檔](https://github.com/s40523238/cd2018/blob/master/模擬W10.ttt)
 
