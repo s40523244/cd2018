@@ -13,7 +13,9 @@
 
 ## [兩段式六連桿提球+軌道模擬影片](https://www.youtube.com/watch?v=n6_t-ywbuyE&feature=youtu.be)
 
-## [兩段式六連桿提球+軌道模擬ttt檔](https://github.com/s40523239/cd_2018-team11/blob/master/T11_W10_%E6%8F%90%E7%90%83%E8%BB%8C%E9%81%93.ttt) {#pyslvs-機構設計模擬檔}
+## [兩段式六連桿提球+軌道模擬ttt檔](https://github.com/s40523239/cd_2018-team11/blob/master/T11_W10_提球軌道.ttt) {#pyslvs-機構設計模擬檔}
+
+## ![](/assets/W10提球軌道.jpg) {#pyslvs-機構設計模擬檔}
 
 ## [Pyslvs 機構設計模擬檔](https://github.com/s40523239/cd_2018-team11/blob/master/T7.pyslvs) {#pyslvs-機構設計模擬檔}
 
