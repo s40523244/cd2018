@@ -30,19 +30,5 @@ Pull Requests的設定是將github上的倉儲與協同者合併，這樣就可�
 
 ![](/assets/P6.jpg)在選自己倉儲的時候會出現這頁面 按compare across forks就好
 
-之後再Pull Requests就好
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+之後再Create Pull Requests就完成同步了
 
